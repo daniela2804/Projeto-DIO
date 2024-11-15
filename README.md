@@ -7,8 +7,7 @@
 ➡️  Este é o repositório desenvolvido por mim durante o curso CAIXA - IA Generativa com Microsoft Copilot, na plataforma da [DIO](https://dio.me).
  
 ➡️  Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
-
-➡️  
+  
 
 
 ## 💻 Tecnologias utilizadas
