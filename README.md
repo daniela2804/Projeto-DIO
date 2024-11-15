@@ -1,73 +1,45 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+## <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler meu EBOOK</a>
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+➡️  Este é o repositório desenvolvido por mim durante o curso CAIXA - IA Generativa com Microsoft Copilot, na plataforma da [DIO](https://dio.me).
+ 
+➡️  Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-## 💻 Tecnologias utilizadas no projeto
+➡️  
+
+
+## 💻 Tecnologias utilizadas
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [CGDream](https://cgdream.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
-
+## 🧠 Prompts utilizados
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                                                                                                                                   |
+|   Ação   | Prompt                                                                                                                                                                                                                                                                                                                                                                                   |
 | :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  título  | Crie um título de e-book sobre o tema processo seletivo. O e-book é sobre processo seletivo para quem não trabalha com seleção será focado em dicas simples para quem quer fazer um processo de seleção assertivo, mesmo não sendo especialista no assunto. O título deve ser curto, leve, com um tom acolhedor e de suporte. Liste 5 variações de títulos.                              |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico                                                                                                           |
+| conteúdo | Faça um texto para e-book, com foco em como conduzir um bom processo seletivo. O público alvo são não especialistas e pessoas que nunca atuaram como avaliadores. O conteúdo deverá abordar a importância da condução de um bom processo seletivo, as características de um bom processo seletivo, quais etapas podem ser utilizadas em um processo seletivo e o perfil esperado do avaliador. O ebook também deverá conter um capítulo sobre a etapa de entrevista por competências. {REGRAS} > explique sempre de maneira simples > deixe o texto enxuto > sempre traga exemplos > sempre deixe um título sugestivo por tópico                                                                                                           |
 
+CGDream：
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
+|  Ação  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| imagem |  Imagine a scene in a startup environment where one person is standing, presenting a screen with graphs, smiling and three other people ar seated, listening.         |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via CGDream
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
